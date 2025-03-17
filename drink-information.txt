@@ -15,10 +15,19 @@ Name: Boss
 My drink: Water
 
 =============================================
+Name: Tew
+My drink: โซดไฟ
+
+=============================================
 Name: Champ2
 My drink: Americano
 
 =============================================
+Name: Gift
+My drink: Pink Milk
+
+=============================================
+
 Name: Lynchz
 My drink:コーヒー
 
@@ -35,4 +44,5 @@ Name: Tatty
 My drink: Match Latte 
 
 =============================================
+
 

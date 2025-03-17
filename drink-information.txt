@@ -27,7 +27,6 @@ Name: Gift
 My drink: Pink Milk
 
 =============================================
-
 Name: Lynchz
 My drink:コーヒー
 

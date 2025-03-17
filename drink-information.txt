@@ -25,6 +25,7 @@ My drink: Americano
 =============================================
 Name: Gift
 My drink: Pink Milk
+<<<<<<< HEAD
 
 =============================================
 Name: Lynchz
@@ -40,8 +41,10 @@ My drink: Beer
 
 =============================================
 Name: Tatty
-My drink: Match Latte 
+My drink: Match Latte
 
 =============================================
+Name: Chaiyo
+My drink: Americano with extra sugar and cream with orange juice
 
-
+=============================================

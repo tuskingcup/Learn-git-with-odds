@@ -7,6 +7,10 @@ Name: Champ
 My drink: Americano
 
 =============================================
+Name: Wanus
+My drink:  เหล้าขาว
+
+=============================================
 Name: Boss
 My drink: Water
 
@@ -18,5 +22,9 @@ My drink: Americano
 
 Name: Gift
 My drink: Pink Milk
+=============================================
+Name: Tatty
+My drink: Match Latte 
+
 
 =============================================

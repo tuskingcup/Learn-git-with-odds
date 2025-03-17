@@ -13,3 +13,7 @@ Breakfast: コーヒー
 Name: Umpika
 transportation: MRT
 Breakfast: Coffee
+
+Name: Champ
+Transport: Muumi Free
+Breakfast: None

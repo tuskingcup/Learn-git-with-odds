@@ -17,3 +17,7 @@ Breakfast: Coffee
 Name: Champ
 Transport: Muumi Free
 Breakfast: None
+
+Name: Tatty
+Transport: BTS
+Breakfast: Corn milk

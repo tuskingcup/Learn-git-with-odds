@@ -25,7 +25,6 @@ My drink: Americano
 =============================================
 Name: Gift
 My drink: Pink Milk
-<<<<<<< HEAD
 
 =============================================
 Name: Lynchz
